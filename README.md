@@ -1,9 +1,9 @@
-Reticulum Network Stack <img align="right" src="https://static.pepy.tech/personalized-badge/rns?period=month&units=international_system&left_color=grey&right_color=blue&left_text=Installs/month" style="padding-left:10px"/><a href="https://github.com/markqvist/Reticulum/actions/workflows/build.yml"><img align="right" src="https://github.com/markqvist/Reticulum/actions/workflows/build.yml/badge.svg"/></a>
+Reticulum Network Stack - Community Edition <img align="right" src="https://static.pepy.tech/personalized-badge/rns?period=month&units=international_system&left_color=grey&right_color=blue&left_text=Installs/month" style="padding-left:10px"/><a href="https://github.com/markqvist/Reticulum/actions/workflows/build.yml"><img align="right" src="https://github.com/markqvist/Reticulum/actions/workflows/build.yml/badge.svg"/></a>
 ==========
 
 <p align="center"><img width="200" src="https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/source/graphics/rns_logo_512.png"></p>
 
-*This repository is [a public mirror](./MIRROR.md). All development is happening elsewhere.*
+This is a community maintained fork of the [Reticulum Network Stack](https://github.com/markqvist/Reticulum) and is intended as a public forum for discussion and issue reporting, as well as a repository to collect community enhancements to RNS.
 
 To understand the foundational philosophy and goals of this system, read the [Zen of Reticulum](Zen%20of%20Reticulum.md).
 
